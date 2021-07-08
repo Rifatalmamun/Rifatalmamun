@@ -2,7 +2,7 @@
 
 <!--
 **Rifatalmamun/Rifatalmamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rifatalmamun)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rifatalmamun)](https://git.io/streak-stats)
