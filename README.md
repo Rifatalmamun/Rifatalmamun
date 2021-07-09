@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifatalmamun)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rifatalmamun)](https://github.com/ashutosh00710/github-readme-activity-graph)
