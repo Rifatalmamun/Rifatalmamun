@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel+Vue+js;Make+your+readme+stand+out!&center=true&width=360&height=50">
+  <img src="http://rifat.xyz/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel+Vue+js;!&center=true&width=360&height=50">
 </p>
 
 
