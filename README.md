@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel,+Vue+js;)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel,+Vue+js;)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifatalmamun)](https://git.io/streak-stats)
 
