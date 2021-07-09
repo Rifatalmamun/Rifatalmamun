@@ -1,4 +1,4 @@
-### Rifat Al Mamun 👋
+### Welcome to my profile 👋
 
 <!--
 **Rifatalmamun/Rifatalmamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an multivendor ecommerce web application.
 - 🌱 I’m currently learning Docker.
-- 💬 My portfolio : https://rifat.xyz
+- 💬 My portfolio : http://rifat.xyz
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifatalmamun)](https://git.io/streak-stats)
 
