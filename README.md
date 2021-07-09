@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently learning Django
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rifatalmamun)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rifatalmamun)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
