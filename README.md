@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel,+Vue=js+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun.;Working+on+Laravel,+Vue+js+)](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifatalmamun)](https://git.io/streak-stats)
