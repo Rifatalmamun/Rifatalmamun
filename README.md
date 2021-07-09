@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel,+Vue+js;)](https://git.io/typing-svg)
+[![Typing SVG](?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel,+Vue+js;)](https://git.io/typing-svg)
 
 
 
