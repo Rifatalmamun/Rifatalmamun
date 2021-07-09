@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&center=true&width=360&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun;Working+on+Laravel+Vue+js;Make+your+readme+stand+out!&center=true&width=360&height=50">
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat+Al+Mamun.;Working+on+Laravel,+Vue+js+)](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifatalmamun)](https://git.io/streak-stats)
