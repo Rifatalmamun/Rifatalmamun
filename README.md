@@ -17,7 +17,7 @@ Experienced Full Stack Web Developer with a strong passion for building exceptio
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
 
 ## Education
-- Bachelor of Science in CSE from [Jashore University of Science and Technology](https://daffodilvarsity.edu.bd/)
+- Bachelor of Science in CSE from [Jashore University of Science and Technology](https://just.edu.bd/)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rifatalmamun)
