@@ -12,7 +12,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Advanced-red)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-success)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow) 
 
 ## Education
 - Bachelor of Science in CSE from [Jashore University of Science and Technology](https://just.edu.bd/)
