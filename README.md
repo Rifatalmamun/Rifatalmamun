@@ -4,10 +4,11 @@
 - 💬 My portfolio: http://rifatalmamun.online
 
 ## Skills
+![React.js](https://img.shields.io/badge/React-Advanced-blueviolet)
+![Next.js](https://img.shields.io/badge/React-Advanced-blueviolet)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
-![React](https://img.shields.io/badge/React-Advanced-blueviolet)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![Laravel](https://img.shields.io/badge/Laravel-Advanced-red)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-success)
