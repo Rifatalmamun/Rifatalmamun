@@ -1,4 +1,4 @@
-# Hi there, I'm Rifat Al Mamun! 👋
+# Hi there, I'm Rifat! 👋
 
 ### Welcome to my profile 👋
 - 💬 My portfolio: http://rifatalmamun.online
