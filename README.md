@@ -5,7 +5,6 @@
 
 ## Skills
 ![React.js](https://img.shields.io/badge/React-Advanced-blueviolet)
-![Next.js](https://img.shields.io/badge/React-Advanced-blueviolet)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
