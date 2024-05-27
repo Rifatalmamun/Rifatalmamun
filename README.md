@@ -1,7 +1,8 @@
 # Hi there, I'm Rifat! 
 
-### Welcome to my profile 👋
-- 🌐 My portfolio: http://rifatalmamun.com
+## About Me 
+
+Experienced Full Stack Web Developer with a strong passion for building exceptional digital experiences. Proficient in JavaScript, TypeScript and the latest technologies including React.js, Next.js, Node.js, Laravel, MySQL, MongoDB, and Firebase.
 
 ## My Expertise area
 ![React.js](https://img.shields.io/badge/React-Advanced-blueviolet)
